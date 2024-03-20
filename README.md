@@ -5,6 +5,7 @@
 - ✨ I'm still lacking of programming skills, but I'm willing to participate and learn!
 
 - 😸 I love cats, my cats, and other not rich-looking cats
-<!--- 📫 How to reach me ... --->
+<!--- 📫 How to reach me ...
 
-- making trash games
+- making trash games --->
+- dead inside
