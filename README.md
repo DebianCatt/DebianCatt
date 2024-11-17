@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm an Information Technology Student<br>Specialty on Software Development<br><br>🔭 I’m currently working on a my School Project<br>🤝 I’m looking for help with my projects<br>🌱 I’m currently learning Web Development<br>
+Hi!
+<br>I'm an Information Technology Student<br><br><br>🔭 I’m currently working on a my School Project<br>🤝 I’m looking for help with my projects<br>🌱 I’m currently learning Web Development<br>
 
 
 ## 🌐 Socials:
