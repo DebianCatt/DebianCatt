@@ -1,6 +1,5 @@
-# 💫 About Me:
-## Hi!
-<br>I'm a Programming Student<br><br><br>
+# Hi!
+I'm a Programming Student<br><br>
 <br>❤️ currently doing side projects on Minecraft mod dev(Java), Roblox game dev, & Unity
 <br>🔭 currently working on a my School Project
 <br>🤝 looking for help with my projects
