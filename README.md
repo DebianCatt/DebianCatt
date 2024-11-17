@@ -1,7 +1,7 @@
 # Hi!
 I'm a Programming Student<br><br>
-<br>❤️ currently doing side projects on Minecraft mod dev(Java), Roblox game dev, & Unity
-<br>🔭 currently working on a my School Project
+<br>❤️ currently doing fun projects on Minecraft mod dev(Java), Roblox game dev, & Unity
+<br>🔭 currently working on a my School Project System
 <br>🤝 looking for help with my projects
 <br>🌱 currently learning Web Development<br>
 
