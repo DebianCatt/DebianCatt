@@ -1,6 +1,6 @@
 # Hi!
 I'm a Programming Student<br><br>
-<br>❤️ currently doing hobby projects on Minecraft mod dev, Roblox game dev, & Unity
+<br>❤️ currently doing hobby projects
 <br>🔭 currently working on a my School Project System
 <br>🤝 looking for help with my projects
 <br>🌱 currently learning Web Development<br>
