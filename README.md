@@ -18,7 +18,7 @@ I'm a Programming Student/Lua dogshit-gamedev/low-tier mod dev<br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DebianCatt&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ My Dev Quote
 "Apes together strong"
 
 ### 🔝 Top Contributed Repo
