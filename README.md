@@ -1,5 +1,5 @@
 # Hi!
-I'm a Programming Student<br><br>
+I'm a Programming Student/Lua dumbgamedev/low-tier mod dev<br><br>
 <br>❤️ currently doing hobby projects
 <br>🔭 currently working on a my School Project System
 <br>🌱 currently learning Web Development<br>
