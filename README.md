@@ -1,13 +1,5 @@
 # 
 
-________         ___.   .__               
-\______  \   ____\_ |__ |__|____    ____  
-*|    |   \_/ __ \| __ \|  \__  \  /    \ 
-*|    `    \  ___/| \_\ \  |/ __ \|   |  \
-/_______  /\___  >___   /__(____  /___|  /
-        \/     \/    \/        \/     \/ 
-
-
 I'm a BSIT graduate major in Information Management
 
 <br>❤️ currently doing gamedev hobbies in Lua language
