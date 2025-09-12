@@ -1,9 +1,7 @@
 # 
 
-I'm a BSIT graduate major in Information Management
+I'm a piece of shit
 
-<br>❤️ currently doing gamedev hobbies in Lua language
-<br>🌱 currently learning Python3<br>
 
 
 ## 🌐 Socials:
