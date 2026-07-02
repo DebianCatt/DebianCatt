@@ -1,7 +1,6 @@
 # 
 
-I'm a piece of shit
-
+Skibidi bapbap oh yes yes
 
 
 ## 🌐 Socials:
